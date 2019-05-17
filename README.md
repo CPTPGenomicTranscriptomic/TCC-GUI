@@ -80,7 +80,7 @@ Run the following command to launch `TCC-GUI` in your local environment, then it
 
 ##### Method 1  
 ```R
-shiny::runGitHub("TCC-GUI", "swsoyee", subdir = "TCC-GUI", launch.browser = TRUE)
+shiny::runGitHub("TCC-GUI", "CPTPGenomicTranscriptomic", subdir = "TCC-GUI", launch.browser = TRUE)
 ```
 
 This method always download the source code from github before launching, so maybe you can try to download all the source code by yourself and launch it.   
